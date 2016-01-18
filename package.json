@@ -1,0 +1,24 @@
+{
+  "author": "fish <zhengxinlin@gmail.com> (https://github.com/fishbar)",
+  "name": "bace",
+  "description": "the ace editor, adjust for cmd loading",
+  "version": "1.2.3",
+  "homepage": "ace editor, adjust for cmd loading",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cube-modules/bace"
+  },
+  "main": "ace.js",
+  "scripts": {
+    "example": "cube start ./"
+  },
+  "license": [{
+    "type": "BSD New",
+    "url": "http://opensource.org/licenses/BSD-3-Clause"
+  }],
+  "dependencies": {},
+  "devDependencies": {
+    "node-cube": "*"
+  },
+  "optionalDependencies": {}
+}
