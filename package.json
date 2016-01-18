@@ -2,7 +2,7 @@
   "author": "fish <zhengxinlin@gmail.com> (https://github.com/fishbar)",
   "name": "bace",
   "description": "the ace editor, adjust for cmd loading",
-  "version": "1.2.3",
+  "version": "1.2.3-beta.1",
   "homepage": "ace editor, adjust for cmd loading",
   "repository": {
     "type": "git",
