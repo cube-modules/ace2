@@ -1,12 +1,12 @@
 {
   "author": "fish <zhengxinlin@gmail.com> (https://github.com/fishbar)",
-  "name": "bace",
+  "name": "ace2",
   "description": "the ace editor, adjust for cmd loading",
   "version": "1.2.3-beta.1",
   "homepage": "ace editor, adjust for cmd loading",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cube-modules/bace"
+    "url": "https://github.com/cube-modules/ace2"
   },
   "main": "ace.js",
   "scripts": {
